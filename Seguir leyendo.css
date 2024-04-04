@@ -1,11 +1,39 @@
 body{
-	width: 1200px;
+	
+           background-color: greenyellow;
+            color:black;
+            font-family:sans-serif; 
+}
+
+.todo{
+    width: 1200px;
      margin: auto;
-	border: 1px solid black;
-            background-color: yellow;
-            color:green;
+    border: 1px solid black;
+    background-color:#50ABDC;
 }
 
 .color{
+    font-family: s;
+     width: 1200px;
+     margin: auto;
+    border: 1px solid black;
     color:purple;
+    background-color:#CFEBFA ;
 }
+
+table {
+        
+        border-spacing: 90px; /* Espacio entre celdas */
+      }
+
+     
+
+.sub3 {
+
+            margin: auto;
+            
+            border: 1px solid white;
+            background-color:#FFB154;
+            color:green;
+}
+           
