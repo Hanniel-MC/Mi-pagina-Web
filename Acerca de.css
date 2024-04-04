@@ -5,3 +5,19 @@ body{
             text-align: center;
             border: 1px solid black;
 	}
+
+table {
+        
+        border-spacing: 90px; /* Espacio entre celdas */
+      }
+
+     
+
+.sub3 {
+
+            margin: auto;
+            
+            border: 1px solid white;
+            background-color:#FFB154;
+            color:green;
+}
