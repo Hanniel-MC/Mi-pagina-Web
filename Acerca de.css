@@ -1,6 +1,14 @@
-body{
+
+	body{
+background-image: url(imagenEM7.jpg);
+	}
+
+
+
+
+	.todo{
 		width: 1200px;
-	background-color: greenyellow;
+	 background-color:#50ABDC;
 	  margin: auto;
             text-align: center;
             border: 1px solid black;
@@ -20,4 +28,3 @@ table {
             border: 1px solid white;
             background-color:#FFB154;
             color:green;
-}
