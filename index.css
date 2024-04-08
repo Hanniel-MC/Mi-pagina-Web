@@ -3,6 +3,7 @@
      margin: auto;
     border: 1px solid black;
     background-color:#50ABDC;
+
 }
 
 .imagenes{
@@ -19,7 +20,7 @@
 body{
   font-family: sans-serif;
 	
-	background-color:greenyellow;
+	background-image: url(imagenEM7.jpg);
 }
 .cuadro0{
 	         font-family: serif;
@@ -29,10 +30,12 @@ body{
 
             background-image: url(imagenEM5.png);
             color:black ;
+
 }
 
 i{
   background-color: #25698E;
+
 }
 
 
@@ -45,6 +48,7 @@ i{
             border: 1px solid white;
             background-color: #CFEBFA;
             color:green;
+          
 
 }
 
@@ -55,6 +59,7 @@ i{
             border: 1px solid white;
             background-color: #50ABDC;
             color:green;
+            
 }
 
 .color{
@@ -69,7 +74,7 @@ color:purple;
 .sub3 {
 
             margin: auto;
-            
+            padding: 0.1px 0.1px 0.1px 0.1px;
             border: 1px solid white;
             background-color:#FFB154;
             color:green;
@@ -84,6 +89,7 @@ color:purple;
             text-align: center;
             border: 1px solid white;
   background-color: #CFEBFA;
+  padding: 20px 20px 20px 20px;
 }
 
 
