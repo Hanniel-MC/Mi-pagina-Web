@@ -1,60 +1,56 @@
-
-body{
+		body{
 	background-image: url(imagenEM7.jpg);
-
-}
-
+		}
 
 
-.todo{
-	width: 1200px;
-	 background-color:#50ABDC;
-	  margin: auto;
-            text-align: center;
-            border: 1px solid black;
-            background-image: url(imagenEM8.jpg);
-          
-            
 
 
-}
+		.todo{
+			width: 1200px;
+		 background-color:#50ABDC;
+		  margin: auto;
+	            text-align: center;
+	            border: 1px solid black;
+	            background-image: url(imagenEM7.jpg);
+		}
 
-table {
-        
-        border-spacing: 90px; /* Espacio entre celdas */
-          b width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1.5px solid #ddd;
-            padding: 10px 90px 20px 20px;
-            text-align: center;
+	table {
+	        
+	        border-spacing: 90px; /* Espacio entre celdas */
+	          b width: 100%;
+	            border-collapse: collapse;
+	        }
+	        th, td {
+	            border: 1.5px solid #ddd;
+	            padding: 10px 90px 20px 20px;
+	            text-align: center;
 
 
--moz-box-shadow: -5px -5px #777777; 
--webkit-box-shadow: -5px -5px #777777; 
-box-shadow: -5px -5px #777777;}
 
-        }
-        th {
-           background-color:#FFB154;
-        }
+	-moz-box-shadow: -5px -5px #777777; 
+	-webkit-box-shadow: -5px -5px #777777; 
+	box-shadow: -5px -5px #777777;}
 
-      .sub4{
-         background-image: url(imagenEM7.jpg);
-         margin: auto;
-            background-color:  #50ABDC;
+	        }
+	        th {
+	           background-color:#FFB154;
+	        }
 
-            color:purple;
-      
-      }
+	      .sub4{
+	         background-image: url(imagenEM7.jpg);
+	         margin: auto;
+	            background-color:  #50ABDC;
 
-     
+	            color:purple;
+	      
+	      }
 
-.sub3 {
+	     
 
-            margin: auto;
-            
-            border: 1px solid white;
-            background-color:#FFB154;
-            color:green;
+	.sub3 {
+
+	            margin: auto;
+	            
+	            border: 1px solid white;
+	            background-color:#FFB154;
+	            color:green;
